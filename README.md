@@ -65,6 +65,27 @@ Each file includes:
 > “Every problem solved adds one line to my success story.”
 
 ---
+🧰 Tools & Technologies
+Category	Tools
+💻 Language	C++ (STL, OOPs)
+🧩 Platform	LeetCode
+
+🧠 IDE	VS Code, Code::Blocks
+☁️ Version Control	Git, GitHub
+🧑‍💻 Practice Tracker	LeetCode Stats, GitHub Contributions
+👨‍💻 About Me
+
+💬 “DSA is not about coding, it’s about thinking efficiently.”
+
+Name: Rishaw
+Degree: B.Tech (CSE)
+Interests: DSA, OOPs, Problem Solving, Development
+LeetCode: Rishaw076
+
+GitHub: @PrabhakarRishaw
+
+Location: India 🇮🇳
+
 
 ### 🧩 Sample Problem
 
@@ -98,23 +119,3 @@ int main() {
     cout << "Maximum water: " << maxArea(height);
     return 0;
 }
-🧰 Tools & Technologies
-Category	Tools
-💻 Language	C++ (STL, OOPs)
-🧩 Platform	LeetCode
-
-🧠 IDE	VS Code, Code::Blocks
-☁️ Version Control	Git, GitHub
-🧑‍💻 Practice Tracker	LeetCode Stats, GitHub Contributions
-👨‍💻 About Me
-
-💬 “DSA is not about coding, it’s about thinking efficiently.”
-
-Name: Rishaw
-Degree: B.Tech (CSE)
-Interests: DSA, OOPs, Problem Solving, Development
-LeetCode: Rishaw076
-
-GitHub: @PrabhakarRishaw
-
-Location: India 🇮🇳
